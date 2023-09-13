@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Headings.md",
+                "file": "Markdown Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Headings.md",
+                "file": "Markdown Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Headings.md",
+                "file": "Markdown Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Headings.md"
+                "file": "Markdown Introduction.md"
+              }
+            }
+          },
+          {
+            "id": "add6b681c816c3f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -147,9 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1861814afc19ecd",
+  "active": "a10c83c9ddf4a5b1",
   "lastOpenFiles": [
-    "Headings.md",
-    "cheetahpic.md"
+    "cheetahpic.md",
+    "Markdown Introduction.md"
   ]
 }
