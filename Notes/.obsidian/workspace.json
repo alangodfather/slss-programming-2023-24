@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f98cfab5128b492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural Language Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Introduction.md",
+                "file": "Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Introduction.md",
+                "file": "Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Introduction.md"
+                "file": "Natural Language Processing.md"
               }
             }
           },
@@ -156,9 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a10c83c9ddf4a5b1",
+  "active": "1f98cfab5128b492",
   "lastOpenFiles": [
-    "cheetahpic.md",
-    "Markdown Introduction.md"
+    "Markdown Introduction.md",
+    "Natural Language Processing.md",
+    "cheetahpic.md"
   ]
 }
