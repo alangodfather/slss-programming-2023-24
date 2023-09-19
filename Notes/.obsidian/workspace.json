@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ff68df6c3285c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural Language Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f98cfab5128b492",
+  "active": "6ff68df6c3285c68",
   "lastOpenFiles": [
     "Markdown Introduction.md",
     "Natural Language Processing.md",
