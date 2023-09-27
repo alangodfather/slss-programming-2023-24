@@ -72,3 +72,7 @@ aaa
 ~~~
 
 # Design
+
+[[Boolean]]
+
+[[Conditionals]]
