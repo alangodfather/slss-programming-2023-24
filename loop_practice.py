@@ -42,7 +42,7 @@ for row in pyramid:
 
 # new years bot
 
-new_year = ["10", "9", "8", "7", "6", "5","4", "3", "2", "1", "Happy New Year!!@!" ]
+new_year = ["10", "9", "8", "7", "6", "5","4", "3", "2", "1", "Happy New Years!" ]
 
 for countdown in new_year:
     print(f" {countdown}")
