@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strings.md",
+                "file": "Iteration.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strings.md",
+                "file": "Iteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strings.md",
+                "file": "Iteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strings.md"
+                "file": "Iteration.md"
               }
             }
           },
@@ -171,14 +171,14 @@
   },
   "active": "acd78530d81f7736",
   "lastOpenFiles": [
+    "Modules.md",
+    "Natural Language Processing.md",
+    "Strings.md",
     "Iteration.md",
     "Lists.md",
-    "Natural Language Processing.md",
     "Markdown (Re)Introduction.md",
-    "Strings.md",
     "Headers.md",
     "Markdown Introduction.md",
-    "Modules.md",
     "Boolean.md",
     "cheetahpic.md",
     "Conditionals.md",
