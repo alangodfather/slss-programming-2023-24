@@ -6,7 +6,7 @@ import time
 # Greet the user
 print("Hello there! 🤖")
 time.sleep(1.5)
-print("I'm a crude Chatbot, here to talk to you")
+print("I'm a crude Chatbott, here to talk to you")
 # Get the User's name and store it in a variable
 user_name = input("So... What's your name? ")
 time.sleep(1.5)
