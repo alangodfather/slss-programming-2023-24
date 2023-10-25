@@ -37,7 +37,7 @@ The .upper() method uppercases all the letters.
 
 ## .strip(chars)
 
-The .strip() method removes characters form both the beginning and the end of the string.
+The .strip() method removes characters from both the beginning and the end of the string.
 
 ```python
 user_feeling = input("How are you feeling today? ")
