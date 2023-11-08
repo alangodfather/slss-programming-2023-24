@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numbers.md",
+                "file": "Recommendation Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numbers.md",
+                "file": "Recommendation Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Numbers.md",
+                "file": "Recommendation Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numbers.md"
+                "file": "Recommendation Systems.md"
               }
             }
           },
@@ -183,10 +183,11 @@
   },
   "active": "94e061c1b1a084b3",
   "lastOpenFiles": [
-    "Recommendation Systems.md",
+    "Strings.md",
     "Natural Language Processing.md",
-    "mcdolands.py",
     "Numbers.md",
+    "Recommendation Systems.md",
+    "mcdolands.py",
     "Conditionals.md",
     "Type.md",
     "Design.md",
@@ -197,7 +198,6 @@
     "Markdown (Re)Introduction.md",
     "Modules.md",
     "Boolean.md",
-    "Strings.md",
     "cheetahpic.md",
     "Markdown Introduction.md",
     "Errors",

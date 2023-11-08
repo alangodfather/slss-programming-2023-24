@@ -27,3 +27,14 @@ Amazon's main purchasing service.
 
 This paradigm is where users rate a product out
 of a certain number.
+
+# Similarity Scores
+
+Amazon, Netflix, and Meta all use Similarity scores to hep drive users to their platform
+
+Example:
+Ubial likes ["nintendo switch", "usb chargers", "4k blu ray movies"]
+Ben Ubial likes ["nintendo switch", "usb chargers", "lego"]
+Fido likes ["lego", "chew toys", "dog food"]
+
+Similarity scores between Ubial and Ben Ubial: 2
