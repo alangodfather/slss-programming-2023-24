@@ -1,5 +1,5 @@
 # Star Wars Bot
-# Author: Lynn Kim
+# Author: Alan
 # October 16, 2023
 
 import sys

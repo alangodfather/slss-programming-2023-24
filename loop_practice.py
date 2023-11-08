@@ -1,5 +1,5 @@
 # Loop Practice
-# Author: Ubial
+# Author: Alan
 # Date: 10 October 2023
 import time;
 

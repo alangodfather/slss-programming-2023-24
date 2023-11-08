@@ -1,5 +1,5 @@
 # Food Suggestion Bot
-# Author: Ubial
+# Author: Alan
 # 6 October 2023
 
 # A bot that asks the user what their favourite
