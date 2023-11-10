@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iteration.md",
+                "file": "Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iteration.md",
+                "file": "Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iteration.md",
+                "file": "Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iteration.md"
+                "file": "Lists.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "acd78530d81f7736",
   "lastOpenFiles": [
+    "Iteration.md",
     "Recommendation Systems.md",
     "data.csv",
     "Strings.md",
@@ -182,7 +183,6 @@
     "Design.md",
     "Errors.md",
     "Headers.md",
-    "Iteration.md",
     "Lists.md",
     "Markdown (Re)Introduction.md",
     "Modules.md",
